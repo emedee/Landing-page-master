@@ -1,2 +1,2 @@
 # Landing-page-master
-a simple website built with html, css and flexbox
+a simple webpage built with html, css and flexbox
